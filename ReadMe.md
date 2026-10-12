@@ -37,13 +37,8 @@ An educational MRI-classification study comparing three model families. I contri
 
 ---
 
-**Curiosity connects the dots.** I studied Intelligence and Devices at Georgia Tech. Today, that shows up in everything from conversations with customers to the choice between a straightforward feature and a specialized model.
+### The first click matters
 
-<details>
-<summary>A little more about how I work</summary>
+In an early Campus Cats design review, I showed the club officers a Figma mockup. They stared at it in silence. The buttons were there, but nobody knew where to start.
 
-- **Start with people.** Customer conversations shape what I build and how it should feel to use.
-- **Choose tools for the problem.** Rails and React for products, React Native for mobile, and Python/PyTorch when the work calls for a model.
-- **Think past the first release.** Testing, clear failure states, and maintainable integrations are part of the product.
-
-</details>
+That changed how I think about an interface. Now, whether I'm building for a cat-care club or farmers navigating filing paperwork at Croft, I ask: **Would someone opening this for the first time know what to do next?**
