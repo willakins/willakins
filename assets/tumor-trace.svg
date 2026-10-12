@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="210" viewBox="0 0 900 210" fill="none" role="img" aria-labelledby="title">
+<title id="title">Tumortrace, A Conceptual Model Comparison</title>
+<style>text{font-family:Georgia,'Times New Roman',serif;fill:#544463}.label{font-family:ui-monospace,'Courier New',monospace;letter-spacing:3px}</style>
+<rect x="1" y="1" width="898" height="208" rx="20" fill="#efebf4"/>
+
+<circle cx="755" cy="111" r="131" fill="#e1ddec"/>
+<text class="label" x="40" y="38" font-size="15">03 / APPLIED AI</text>
+<text x="37" y="117" font-size="68" letter-spacing="-2">TumorTrace</text>
+<path d="M41 149H92" stroke="#8a7c9e" stroke-width="2"/>
+<text x="107" y="157" font-size="24" font-style="italic">An idea. An experiment. A lesson.</text>
+<g stroke="#9c8caf" stroke-width="2" stroke-linecap="round" fill="none">
+<path d="M619 103C659 103 656 44 698 44M619 103H698M619 103C659 103 656 166 698 166"/>
+<path d="M710 44L771 71M710 44L771 135M710 103L771 71M710 103L771 135M710 166L771 71M710 166L771 135" opacity=".65"/>
+<path d="M783 71L839 103M783 135L839 103"/>
+</g>
+<g stroke="#685778" stroke-width="2.5">
+<rect x="591" y="83" width="35" height="40" rx="8" fill="#f7f3fb"/>
+<path d="M600 96H616M600 104H616M600 112H609" stroke-width="2"/>
+<circle cx="704" cy="44" r="12" fill="#e8c7b0"/><circle cx="704" cy="103" r="12" fill="#bacdbc"/><circle cx="704" cy="166" r="12" fill="#c7bcdf"/>
+<circle cx="779" cy="71" r="12" fill="#f7f3fb"/><circle cx="779" cy="135" r="12" fill="#f7f3fb"/>
+<circle cx="846" cy="103" r="16" fill="#c7bcdf"/><path d="M840 103L845 108L853 98" stroke-width="2"/>
+</g>
+<path d="M545 174H567V152M547 172L567 152" stroke="#685778" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+
+</svg>

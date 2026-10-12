@@ -1,37 +1,49 @@
-# William Akins
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hello-dark.svg">
+  <img src="assets/hello-light.svg" alt="Software with people in mind. An illustrated workspace with a curious cat." width="100%">
+</picture>
 
-**Full-stack software developer · Atlanta, Georgia**
+### Hi, I'm William.
 
-I build web and mobile products, developer tools, and applied AI workflows. I care about understanding the people using the software, making complicated tasks easier, and maintaining what I ship.
+I build web and mobile products, developer tools, and applied AI. I start with the people behind a problem and work through the details that make a product useful.
 
-I'm a **Software Developer at Croft**, building a Ruby on Rails application that helps agricultural businesses manage H-2A filing and related workflows. My work spans customer conversations, interface design, data integrations, document automation, and production delivery.
+**Currently at Croft:** Software Developer, turning complex agricultural filing workflows into approachable software with Ruby on Rails.
 
-[LinkedIn](https://www.linkedin.com/in/william-akins-us/) · [Email](mailto:willakins23@gmail.com)
+## A few things I've built
 
-## Selected work
+<a href="https://github.com/willakins/Campus-Cats">
+  <img src="assets/campus-cats.svg" alt="Campus Cats. A mobile home for campus cat communities. Explore the project." width="100%">
+</a>
 
-### [Campus Cats](https://github.com/willakins/Campus-Cats)
+A mobile platform for college clubs to coordinate cat care and bring volunteers together. After our five-person Georgia Tech capstone, I continued as its sole developer, expanding it for separate college communities.
 
-A mobile platform for college clubs to care for campus cats, coordinate volunteers, and bring their communities together. I helped build the original Georgia Tech capstone with a five-person team and now develop and maintain the platform independently. My work includes expanding it for separate college communities and translating feedback from club members into product decisions.
+`React Native` `Expo` `TypeScript` `PostgreSQL` `Firebase`
 
-**React Native · Expo · TypeScript · Supabase/PostgreSQL · Firebase**
+<a href="https://github.com/willakins/code-conductor">
+  <img src="assets/code-conductor.svg" alt="Code Conductor. From pull request to production. Explore the project." width="100%">
+</a>
 
-### [Code Conductor](https://github.com/willakins/code-conductor)
+I built a self-hosted tool that connects reviews, tests, deployments, and production health. Replaceable integrations let teams switch supported providers; careful failure handling keeps deployment state honest.
 
-I created this self-hosted tool to connect code reviews, testing, deployments, and production health in one workflow. Its replaceable integrations let teams switch between supported providers, while persisted state and explicit failure handling keep deployment status accurate when a provider call fails.
+`Node.js` `PostgreSQL` `Provider integrations`
 
-**Node.js · PostgreSQL · Provider integrations · Deployment workflows**
+<a href="https://github.com/willakins/TumorTrace">
+  <img src="assets/tumor-trace.svg" alt="TumorTrace. An idea, an experiment, a lesson. Explore the project." width="100%">
+</a>
 
-### [TumorTrace](https://github.com/willakins/TumorTrace)
+An educational MRI-classification study comparing three model families. I contributed preprocessing, model implementation, training, and evaluation as part of a three-person team. The interesting part is what the experiment taught us, including its limits.
 
-An educational research project comparing a custom 3D CNN with two established models for brain MRI classification. On our three-person team, I contributed preprocessing, model implementation, training workflows, and evaluation. The repository includes recorded results and error analysis, with the limits of the experiment made explicit.
+`Python` `PyTorch` `Computer vision`
 
-**Python · PyTorch · Computer vision · Model evaluation**
+---
 
-## Tools I work with
+**Curiosity connects the dots.** I studied Intelligence and Devices at Georgia Tech. Today, that shows up in everything from conversations with customers to the choice between a straightforward feature and a specialized model.
 
-- **Web and mobile:** Ruby on Rails, React, React Native, Expo, TypeScript, JavaScript, Node.js
-- **Data and delivery:** PostgreSQL, Supabase, Firebase, Docker, GitHub Actions
-- **Applied AI:** Python, PyTorch, computer vision, OpenAI integrations
+<details>
+<summary>A little more about how I work</summary>
 
-I earned my B.S. in Computer Science at Georgia Tech, with threads in Intelligence and Devices. The projects above bring together my interests in useful products, reliable systems, and learning by building.
+- **Start with people.** Customer conversations shape what I build and how it should feel to use.
+- **Choose tools for the problem.** Rails and React for products, React Native for mobile, and Python/PyTorch when the work calls for a model.
+- **Think past the first release.** Testing, clear failure states, and maintainable integrations are part of the product.
+
+</details>

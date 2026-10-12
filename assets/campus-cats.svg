@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="210" viewBox="0 0 900 210" fill="none" role="img" aria-labelledby="title">
+<title id="title">Campus Cats, An Illustrated Mobile Community</title>
+<style>text{font-family:Georgia,'Times New Roman',serif;fill:#2c513b}.label{font-family:ui-monospace,'Courier New',monospace;letter-spacing:3px}</style>
+<rect x="1" y="1" width="898" height="208" rx="20" fill="#eaf0e2"/>
+
+<circle cx="748" cy="115" r="131" fill="#dce6d1"/>
+<text class="label" x="40" y="38" font-size="15">01 / MOBILE + COMMUNITY</text>
+<text x="37" y="117" font-size="68" letter-spacing="-2">Campus Cats</text>
+<path d="M41 149H92" stroke="#5e7857" stroke-width="2"/>
+<text x="107" y="157" font-size="24" font-style="italic">A home for every campus cat.</text>
+<g stroke="#446244" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+<path d="M590 188H850"/>
+<g transform="rotate(-7 667 109)"><rect x="615" y="17" width="103" height="174" rx="18" fill="#f9faf3"/>
+<path d="M651 28H683" stroke-width="4"/><rect x="626" y="45" width="81" height="108" rx="6" fill="#e7eedf" stroke="none"/>
+<path d="M632 67L698 131M656 47L636 147M693 49L670 150M627 113L705 80" stroke="#c1d1b9" stroke-width="4"/>
+<path d="M649 88C633 69 663 62 663 78C663 83 659 87 656 92Z" fill="#73986d" stroke="none"/><circle cx="653" cy="78" r="3" fill="#f9faf3" stroke="none"/>
+<path d="M679 129C663 110 693 103 693 119C693 124 689 128 686 133Z" fill="#bd885c" stroke="none"/>
+<path d="M655 169H680" stroke="#b6c7af" stroke-width="3"/></g>
+<path d="M817 187C817 154 829 137 845 124M820 162Q799 139 808 130Q829 140 820 162M829 143Q828 120 846 116Q850 135 829 143" fill="#b8caaa"/>
+</g>
+<g transform="translate(705 61) scale(.91)"><g stroke="#86583e" fill="#86583e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M102 112C139 129 148 83 127 85" stroke="#86583e" stroke-width="9"/><path d="M52 87C46 104 43 120 53 124H107C118 118 109 100 105 87" fill="#ecdac0" stroke="#86583e" stroke-width="2.5"/>
+<g class="cat-face"><path d="M43 62L40 27L65 43C74 39 86 39 95 43L119 27L116 64C127 93 109 102 80 102C50 102 33 89 43 62Z" fill="#ecdac0" stroke-width="2.5"/>
+<path d="M49 50L47 38L59 46M101 46L112 38L110 53M73 42L79 53L86 42" fill="none"/>
+<g stroke="none"><ellipse cx="61" cy="69" rx="3" ry="4"/><ellipse cx="99" cy="69" rx="3" ry="4"/></g><path d="M76 78H84L80 82Z"/>
+<path d="M80 82V86M80 86Q73 92 69 86M80 86Q87 92 91 86M51 81L29 77M51 88L28 91M110 81L133 77M110 88L133 91" fill="none"/></g>
+<g fill="none"><path d="M65 113V123M96 113V123"/></g></g></g>
+<path d="M767 29Q767 38 776 38Q767 38 767 47Q767 38 758 38Q767 38 767 29Z" fill="#7f996c"/>
+<path d="M528 174H550V152M530 172L550 152" stroke="#446244" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+
+</svg>

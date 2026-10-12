@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="300" viewBox="0 0 900 300" fill="none" role="img" aria-labelledby="title">
+<title id="title">Software With People In Mind, Dark Theme</title>
+<style>text{font-family:Georgia,'Times New Roman',serif;fill:#e9eee3}.label{font-family:ui-monospace,'Courier New',monospace;letter-spacing:3px}@media (prefers-reduced-motion:no-preference){.cat-face{transform-origin:80px 102px;animation:greeting 1s .5s 1 ease-in-out}}@keyframes greeting{0%,100%{transform:rotate(0)}40%{transform:rotate(-7deg)}75%{transform:rotate(3deg)}}</style>
+<rect x="1" y="1" width="898" height="298" rx="20" fill="#19251f"/>
+
+<circle cx="757" cy="156" r="130" fill="#223b2d"/>
+<path d="M555 276C548 204 622 268 668 263C727 255 794 290 859 252" stroke="#537762" stroke-width="2" stroke-dasharray="4 7"/>
+<text class="label" x="44" y="51" font-size="17" fill="#a4b9a6">WILLIAM AKINS / DEVELOPER</text>
+<text x="40" y="137" font-size="70" letter-spacing="-2">Software with</text>
+<text x="40" y="218" font-size="70" letter-spacing="-2">people in mind.</text>
+<path d="M43 249C119 236 202 241 256 246" stroke="#a4b9a6" stroke-width="3" stroke-linecap="round"/>
+<circle cx="279" cy="247" r="4" fill="#a4b9a6"/>
+<g stroke="#e9eee3" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+<rect x="608" y="107" width="230" height="135" rx="12" fill="#19251f"/>
+<path d="M608 133H838M705 243V263M743 243V263M687 265H759"/>
+<circle cx="622" cy="121" r="2.5" fill="#e9eee3" stroke="none"/><circle cx="633" cy="121" r="2.5" fill="#e9eee3" stroke="none"/>
+<path d="M629 154H678M629 167H718M641 180H695M641 193H707M629 206H668" stroke="#a4b9a6"/>
+<rect x="752" y="151" width="65" height="61" rx="8" fill="#223b2d"/>
+<path d="M769 181L780 191L800 168" stroke="#e9eee3" stroke-width="3"/>
+</g>
+<g transform="translate(660 13) scale(.8)"><g stroke="#e9eee3" fill="#e9eee3" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+<g class="cat-face"><path d="M43 62L40 27L65 43C74 39 86 39 95 43L119 27L116 64C127 93 109 102 80 102C50 102 33 89 43 62Z" fill="#d4b38b" stroke-width="2.5"/>
+<path d="M49 50L47 38L59 46M101 46L112 38L110 53M73 42L79 53L86 42" fill="none"/>
+<path d="M54 70Q61 64 68 70M92 70Q99 64 106 70" stroke-width="2.5"/><path d="M76 78H84L80 82Z"/>
+<path d="M80 82V86M80 86Q73 92 69 86M80 86Q87 92 91 86M51 81L29 77M51 88L28 91M110 81L133 77M110 88L133 91" fill="none"/></g>
+<g fill="none"><path d="M51 106C51 94 70 94 70 106V112Q70 119 63 119H58Q51 119 51 112ZM90 106C90 94 109 94 109 106V112Q109 119 102 119H97Q90 119 90 112Z" fill="#d4b38b"/><path d="M57 111v6m7-6v6m32-6v6m7-6v6"/></g></g></g>
+<path d="M843 50Q843 63 856 63Q843 63 843 76Q843 63 830 63Q843 63 843 50Z" fill="#a4b9a6"/><path d="M590 66Q590 73 597 73Q590 73 590 80Q590 73 583 73Q590 73 590 66Z" fill="#537762"/>
+<circle cx="865" cy="199" r="4" fill="#a4b9a6"/>
+
+</svg>

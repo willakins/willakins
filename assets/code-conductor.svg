@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="210" viewBox="0 0 900 210" fill="none" role="img" aria-labelledby="title">
+<title id="title">Code Conductor, An Illustrated Release Workflow</title>
+<style>text{font-family:Georgia,'Times New Roman',serif;fill:#5a4731}.label{font-family:ui-monospace,'Courier New',monospace;letter-spacing:3px}</style>
+<rect x="1" y="1" width="898" height="208" rx="20" fill="#f1ece1"/>
+
+<circle cx="755" cy="111" r="131" fill="#e7dfc9"/>
+<text class="label" x="40" y="38" font-size="15">02 / DEVELOPER TOOLS</text>
+<text x="37" y="117" font-size="66" letter-spacing="-2">Code Conductor</text>
+<path d="M41 149H92" stroke="#97784c" stroke-width="2"/>
+<text x="107" y="157" font-size="24" font-style="italic">From pull request to production.</text>
+<g stroke="#69563d" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+<rect x="630" y="36" width="221" height="134" rx="11" fill="#fcf8ef"/>
+<path d="M630 61H851"/><circle cx="645" cy="49" r="2.5" fill="#b99b62" stroke="none"/><circle cx="657" cy="49" r="2.5" fill="#b99b62" stroke="none"/>
+<path d="M658 83H706M658 94H732" stroke="#b9a785"/>
+<path d="M669 129H813" stroke="#b99b62" stroke-dasharray="4 6"/>
+<circle cx="670" cy="129" r="12" fill="#eee5d0"/><circle cx="740" cy="129" r="12" fill="#eee5d0"/><circle cx="810" cy="129" r="12" fill="#d9e4ce"/>
+<path d="M665 128L669 132L676 124M735 128L739 132L746 124M805 128L809 132L816 124" stroke-width="2"/>
+<path d="M688 170V184H596V114H628" stroke="#ad966b"/>
+<circle cx="596" cy="102" r="11" fill="#f9f3e5"/><path d="M590 102L596 107L602 98"/>
+<path d="M867 75V146" stroke="#c8bba1" stroke-dasharray="3 6"/>
+</g>
+<path d="M550 174H572V152M552 172L572 152" stroke="#69563d" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+
+</svg>
