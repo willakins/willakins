@@ -37,8 +37,6 @@ An educational MRI-classification study comparing three model families. I contri
 
 ---
 
-### The first click matters
+### What drives me
 
-In an early Campus Cats design review, I showed the club officers a Figma mockup. They stared at it in silence. The buttons were there, but nobody knew where to start.
-
-That changed how I think about an interface. Now, whether I'm building for a cat-care club or farmers navigating filing paperwork at Croft, I ask: **Would someone opening this for the first time know what to do next?**
+I want to build a career around difficult problems, continuous learning, and software that makes people's lives easier. My work spans products, developer tools, and AI because I want to keep expanding the kinds of problems I can solve. **What makes that growth meaningful is turning what I learn into something useful for someone else.**
